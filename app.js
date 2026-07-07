@@ -3,4 +3,5 @@ let a = 10;
 let b = 20;
 let c = a+b;
 console.log("The sum of two number is " + c)
-console.log("I am added new")
+console.log("I am new man")
+console.log(a+b);
